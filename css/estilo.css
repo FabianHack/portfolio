@@ -1,0 +1,18 @@
+#nav_menu {
+   padding-left: 100px;
+   padding-right: 100px;
+   background-color: #22272e;   
+}
+#home {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #2d333b;
+    color: #fff;
+}
+.conteiner-img {
+    max-width: 40%;   
+}
+
+#about {
+    background-color: #22272e; ;
+}
